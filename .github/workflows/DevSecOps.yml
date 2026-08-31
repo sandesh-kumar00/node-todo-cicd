@@ -1,7 +1,7 @@
 name: Secure DevSecOps to GCP VM (Kind Cluster)
 
 on:
-  :
+  push:
     branches:
       - main
 
